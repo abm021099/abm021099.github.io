@@ -37,11 +37,11 @@ h6 {
 }
 
 .intro-header {
-    padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg);
     background-size: cover;
+
 }
 
 .intro-message {
